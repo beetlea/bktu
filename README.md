@@ -4,7 +4,8 @@
 <h2>Возможности системы</h2>
 1 Сбор телеметрии с техники ( время работы, температра, контроль доступа, детекция ударов)</br>
 2 Отправка данных по WiFi на сервер, где отображется вся информация по каждому сотруднику</br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7G_hNvXFtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
+<h2>Видео работы </h2>
+https://www.youtube.com/embed/K7G_hNvXFtA" </br>
 <img src="https://habrastorage.org/webt/kv/ax/qr/kvaxqrept3l6n_tbste2-v3jsji.jpeg" /></br>
 <img src="https://habrastorage.org/webt/1q/uf/ob/1qufobbwsulqbisqf_roa21aj1s.jpeg" /></br>
 <img src="https://habrastorage.org/webt/-t/bj/_m/-tbj_mdqfdg95mtrkikgr4uthte.jpeg" /></br>
